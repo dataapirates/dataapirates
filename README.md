@@ -24,7 +24,7 @@
     <font face="Sarpanch" color="white" size"10" class="message">
       -:&nbsp;  WE STRIKE FIRST | <font color="00F028"> <B> BAN TRX BUV </B> </font> | WE SHOW NO MERCY&nbsp;:-
     </font><br><br>
-    <font face="Sarpanch" color="black" size"10" class="message"> <span> &nbsp;&nbsp; <B> #LOLHACKED&nbsp; &bull; &nbsp;#DON'T UNTERSTIMATE US&nbsp;&bull;&nbsp;&nbsp;#LOLPWNED&nbsp; &nbsp; </B></span><br><br>
+    <font face="Sarpanch" color="black" size"10" class="message"> <span> &nbsp;&nbsp; <B> #LOLHACKED&nbsp; &bull; &nbsp;#DON'T UNTERSTIMATE US&nbsp;&bull;&nbsp;&nbsp;#HELLO DEPARTMENT OF COMPUTER APPLICATION&nbsp; &nbsp; </B></span><br><br>
     <font face="Play">
       <p class="we-are"><b><font color="White">WE <font color="White">ARE<font color="white">:</b></p>
     </font>
